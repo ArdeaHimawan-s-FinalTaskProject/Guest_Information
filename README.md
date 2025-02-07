@@ -11,6 +11,7 @@ Dalam project ini, saya menggunakan dua perangkat utama:
 ✅ Raspberry Pi → Sebagai kontrol utama yang mengelola sensor-sensor keamanan
 
 📊 Alur kerja sistem dapat dilihat pada flowchart berikut:
+
 ![image](https://github.com/user-attachments/assets/f0f6e0f3-8f82-464f-b0cd-c65f4e9b6e84)
 
 Jika Anda tertarik dan ingin mendapatkan kode program lengkap, silakan hubungi saya melalui:
@@ -27,6 +28,7 @@ In this project, I utilize two main devices:
 ✅ Raspberry Pi → As the main controller managing security sensors
 
 📊 The system workflow is illustrated in the following flowchart:
+
 ![image](https://github.com/user-attachments/assets/47478ef9-40d4-432d-8e56-d289dce99f78)
 
 
