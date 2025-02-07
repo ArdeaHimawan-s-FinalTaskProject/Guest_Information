@@ -31,7 +31,7 @@ In this project, I utilize two main devices:
 
 📊 The system workflow is illustrated in the following flowchart:
 
-![image](https://github.com/user-attachments/assets/47478ef9-40d4-432d-8e56-d289dce99f78)
+![Flowchart Sistem](Flowchart%20sistem.drawio.svg)
 
 
 If you're interested and would like to access the full source code, feel free to contact me via:
