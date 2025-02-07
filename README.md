@@ -12,7 +12,9 @@ Dalam project ini, saya menggunakan dua perangkat utama:
 
 📊 Alur kerja sistem dapat dilihat pada flowchart berikut:
 
-![image](https://github.com/user-attachments/assets/f0f6e0f3-8f82-464f-b0cd-c65f4e9b6e84)
+
+<iframe frameborder="0" style="width:100%;height:894px;" src="https://app.diagrams.net/?tags=%7B%7D#G1a4rPplpN8q7lKPl3NMR_tnm8e9AG9EzT"></iframe>
+
 
 Jika Anda tertarik dan ingin mendapatkan kode program lengkap, silakan hubungi saya melalui:
 📲 WhatsApp: 085600009732
