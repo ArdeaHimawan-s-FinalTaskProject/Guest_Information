@@ -13,7 +13,7 @@ Dalam project ini, saya menggunakan dua perangkat utama:
 📊 Alur kerja sistem dapat dilihat pada flowchart berikut:
 
 
-<iframe frameborder="0" style="width:100%;height:894px;" src="https://app.diagrams.net/?tags=%7B%7D#G1a4rPplpN8q7lKPl3NMR_tnm8e9AG9EzT"></iframe>
+![Flowchart Sistem](Flowchart%20sistem.drawio.svg)
 
 
 Jika Anda tertarik dan ingin mendapatkan kode program lengkap, silakan hubungi saya melalui:
